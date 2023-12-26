@@ -1,1 +1,1 @@
-mvn clean install
+echo "this is for multibranch"
